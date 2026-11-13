@@ -1,0 +1,8 @@
+name: companion-drone
+displayName: Companion Drone
+author: kusakov and claude ai
+description: "A cute little Poly-like drone follows you around, patches up damaged buildings nearby and comments on what is happening: enemies, waves, an attacked core."
+version: "1.0.0"
+minGameVersion: 160
+main: companiondrone.CompanionDroneMod
+java: true
